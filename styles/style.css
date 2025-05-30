@@ -3,3 +3,31 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.header-container {
+    width: 1380px;
+    border: 1px solid black;
+}
+
+.header {
+    width: 900px;
+    border: 1px solid rebeccapurple;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+}
+
+ul a {
+    text-decoration: none;
+}
+
+.logo a {
+    text-decoration: none;
+}
+
