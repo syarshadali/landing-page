@@ -41,6 +41,7 @@ ul a {
 
 .logo a {
     text-decoration: none;
+    font-weight: bolder;
     font-size: 2.4rem;
     color: #F9FAF8;
 }
