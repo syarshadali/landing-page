@@ -54,10 +54,14 @@ ul a {
     width: 900px;
     margin: 0 auto;
     display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid black;
 }
 
 .hero-content {
     border: 1px solid red;
+    width: 47%;
 }
 
 .hero-main-text {
@@ -71,5 +75,16 @@ ul a {
 
 .hero-button {
     font-size: 1.8rem;
+}
+
+.hero-image {
+    height: 250px;
+    width: 48%;
+}
+
+.hero-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
 }
 
