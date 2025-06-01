@@ -46,3 +46,15 @@ ul a {
     color: #F9FAF8;
 }
 
+.hero-main-text {
+    font-size: 4.8rem;
+    font-weight: 900;
+}
+
+.hero-text {
+    font-size: 1.8rem;
+}
+
+.hero-button {
+    font-size: 1.8rem;
+}
