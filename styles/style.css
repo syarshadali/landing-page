@@ -48,11 +48,15 @@ ul a {
 
 #main {
     width: 1320px;
+    height: 431px;
+    border: 1px solid rebeccapurple;
 }
 
 .hero-container {
     width: 900px;
     margin: 0 auto;
+    padding-top: 90px;
+    padding-bottom: 90px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -71,15 +75,27 @@ ul a {
 
 .hero-text {
     font-size: 1.8rem;
+    margin-top: 1rem;
 }
 
 .hero-button {
     font-size: 1.8rem;
+    padding: 10px 20px;
+    background-color: #3882F6;
+    border-radius: 9px;
+    margin-top: 10px;
+    width: 24%;
+}
+
+.hero-button a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
 }
 
 .hero-image {
-    height: 250px;
-    width: 48%;
+    height: 249px;
+    width: 50%;
 }
 
 .hero-image img {
