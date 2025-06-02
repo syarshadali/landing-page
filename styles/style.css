@@ -13,13 +13,13 @@ html {
 }
 
 .header-container {
-    width: 1320px;
+    width: 132rem;
     height: 5.5rem;
     background-color: #1F2937;
 }
 
 .header {
-    width: 900px;
+    width: 90rem;
     height: 5.5rem;
     margin: 0 auto;
     display: flex;
@@ -47,43 +47,43 @@ ul a {
 }
 
 #main {
-    width: 1320px;
-    height: 431px;
-    border: 1px solid rebeccapurple;
+    width: 132rem;
+    height: 43.1rem;
+    background-color: #1F2937;
 }
 
 .hero-container {
-    width: 900px;
+    width: 90rem;
     margin: 0 auto;
-    padding-top: 90px;
-    padding-bottom: 90px;
+    padding-top: 9rem;
+    padding-bottom: 9rem;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    border: 1px solid black;
 }
 
 .hero-content {
-    border: 1px solid red;
     width: 47%;
 }
 
 .hero-main-text {
     font-size: 4.8rem;
     font-weight: 900;
+    color: #F9FAF8;
 }
 
 .hero-text {
     font-size: 1.8rem;
     margin-top: 1rem;
+    color: #E5E7EB;
 }
 
 .hero-button {
     font-size: 1.8rem;
-    padding: 10px 20px;
+    padding: 1rem 2rem;
     background-color: #3882F6;
-    border-radius: 9px;
-    margin-top: 10px;
+    border-radius: 0.9rem;
+    margin-top: 1rem;
     width: 24%;
 }
 
@@ -94,7 +94,7 @@ ul a {
 }
 
 .hero-image {
-    height: 249px;
+    height: 24.9rem;
     width: 50%;
 }
 
