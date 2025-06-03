@@ -12,6 +12,11 @@ html {
     font-size: 10px;
 }
 
+body {
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.2;
+}
+
 .header-container {
     width: 132rem;
     height: 5.5rem;
@@ -80,11 +85,11 @@ ul a {
 
 .hero-button {
     font-size: 1.8rem;
-    padding: 1rem 2rem;
+    padding: 0.9rem 3.2rem;
     background-color: #3882F6;
     border-radius: 0.9rem;
     margin-top: 1rem;
-    width: 24%;
+    width: 30%;
 }
 
 .hero-button a {
