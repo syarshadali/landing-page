@@ -40,8 +40,6 @@ ul {
 
 ul a {
     text-decoration: none;
-    font-size: 1.8rem;
-    color: #E5E7EB;
 }
 
 .logo a {
@@ -75,11 +73,11 @@ ul a {
     font-size: 4.8rem;
     font-weight: 900;
     color: #F9FAF8;
+    margin-bottom: 1rem;
 }
 
 .hero-text {
     font-size: 1.8rem;
-    margin-top: 1rem;
     color: #E5E7EB;
 }
 
@@ -109,8 +107,24 @@ ul a {
     object-fit: contain;
 }
 
+#information {
+    width: 132rem;
+}
+
+.information-container {
+    width: 90rem;
+    margin: 0 auto;
+    border: 1px solid rebeccapurple;
+}
+
 .title {
     font-size: 3.6rem;
     font-weight: 900;
+    color: #1F2937;
+    text-align: center;
+}
+
+.text {
+    font-size: 1.8rem;
 }
 
