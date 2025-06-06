@@ -110,7 +110,6 @@ ul a {
 #information {
     width: 140rem;
     height: 50rem;
-    border: 1px solid green;
 }
 
 .information-container {
@@ -155,4 +154,12 @@ ul a {
     justify-content: center;
     align-items: center;
     gap: 4rem;
+}
+
+#quote {
+    background-color: #E5E7EB;
+}
+figure {
+    font-size: 3.6rem;
+    color: #1F2937;
 }
