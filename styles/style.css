@@ -179,10 +179,13 @@ figcaption {
     display: flex;
     justify-content: center;
     align-items: center;
-    border: 1px solid rebeccapurple;
 }
 
 .quote-cont {
-    width: 80rem;
-    border: 1px solid red;
+    width: 77rem;
+}
+
+figcaption {
+    display: flex;
+    justify-content: flex-end;
 }
