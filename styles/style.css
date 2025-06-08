@@ -86,8 +86,11 @@ ul a {
     padding: 0.9rem 3.2rem;
     background-color: #3882F6;
     border-radius: 0.9rem;
-    margin-top: 1rem;
     width: 30%;
+}
+
+.main-button {
+    margin-top: 1rem;
 }
 
 .hero-button a {
@@ -190,4 +193,16 @@ figcaption {
 figcaption {
     display: flex;
     justify-content: flex-end;
+}
+
+#call-to-action {
+    width: 140rem;
+    height: 30rem;
+    border: 1px solid black;
+}
+
+.action-container {
+    width: 99rem;
+    margin: 0 auto;
+    border: 1px solid red;
 }
