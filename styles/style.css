@@ -84,10 +84,13 @@ ul a {
 .hero-button {
     font-size: 1.8rem;
     padding: 0.9rem 3.2rem;
-    margin-top: 1rem;
     background-color: #3882F6;
     border-radius: 0.9rem;
     width: 30%;
+}
+
+.main-button {
+    margin-top: 1rem;
 }
 
 .hero-button a {
@@ -202,4 +205,18 @@ figcaption {
     width: 99rem;
     margin: 0 auto;
     border: 1px solid red;
+}
+
+.modal-text {
+    font-size: 1.8rem;
+}
+
+.modal-text-button {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.modal-header {
+    font-size: 2.5rem;
 }
