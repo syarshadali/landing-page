@@ -212,12 +212,8 @@ figcaption {
     border: 1px solid red;
     width: 76rem;
     background-color: #3882F6;
-}
-
-.modal-text-button {
     display: flex;
     justify-content: space-between;
-    align-items: center;
 }
 
 .modal-header {
@@ -227,5 +223,4 @@ figcaption {
 
 .action-button {
     border: 0.2rem solid #fff;
-    margin-bottom: 0.5rem;
 }
