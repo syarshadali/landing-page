@@ -203,13 +203,22 @@ figcaption {
     align-items: center;
 }
 
+.action-container {
+    width: 99rem;
+    height: 15rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #3882F6;
+    border-radius: 1rem;
+}
+
 .modal-text {
     font-size: 1.8rem;
     color: #E5E7EB;
 }
 
 .modal {
-    border: 1px solid red;
     width: 78rem;
     background-color: #3882F6;
     display: flex;
