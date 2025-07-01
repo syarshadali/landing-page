@@ -2,13 +2,13 @@
 
 This is the second foundations project of the full stack development course of The Odin Project.
 
-<b>Objective:</b>
+<u><b>Objective:</b></u>
 
 This is a dummy website. The text and images have meaningless dummy content.
 
 The main objective of this website is to practice the HTML and CSS skills in using the Flexbox and its properties for page layout.
 
-<b>Skills Demonstrated:</b>
+<u><b>Skills Demonstrated:</b></u>
 
 <ul>
     <li>Use of Flexbox and its properties in page layout          creation.</li>
@@ -17,7 +17,7 @@ The main objective of this website is to practice the HTML and CSS skills in usi
     <li>Navigating files and directories in Linux system through terminal.</li>
 </ul>
 
-<b>Thanks for Images:</b>
+<u><b>Thanks for Images:</b></u>
 
 Huge thanks for the creators of the images which I used in my website.
 
