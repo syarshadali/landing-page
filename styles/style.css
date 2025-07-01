@@ -107,6 +107,7 @@ ul a:hover {
     padding: 0.9rem 3.2rem;
     background-color: #3882F6;
     border-radius: 0.9rem;
+    cursor: pointer;
 }
 
 .main-button {
